@@ -1,0 +1,1 @@
+Multiply with "*" or "x" Divide with "/" Add with "+" Subtract with "-" Log with "log" Ln with "ln" square with "s" cube with "c" square root with "sroot" cube root with "croot" trig with "sin" "cos" "tan" "csc" "sec" "cot"
